@@ -7,3 +7,5 @@ You can run it in your CPU if GPU is not present.
 To use your local GPU install CUDA v12.1 From NVIDIA
 
 To run the code first install all the packages given at the end of notebook
+
+If accident is detected in the video the images will be stored locally
